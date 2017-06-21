@@ -1,4 +1,4 @@
-# Project-CSC424
+# Home Purchase Prediction
 Coursework Project for CSC424 (Advanced Data Analysis)
 
 1. Introduction:
