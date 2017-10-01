@@ -9,9 +9,10 @@ With that in mind, the purpose of this study is to examine the relationship of c
 
 •	Conducted data preprocessing to transform the original data into an understandable format.
 
-•	Reduced the dimensions of data through PCA and built logistic regression model based on PCA scores.
+•	Built logistic regression models based on PCA scores.
 
-•	Performed cross-validation test on the prediction model and achieved 60% of accuracy.
+•	Achieved 62.15% of prediction accuracy through cross-validation test.
+
 
 
 # Team members
