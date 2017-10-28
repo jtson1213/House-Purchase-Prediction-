@@ -9,7 +9,7 @@ With that in mind, the purpose of this study is to examine the relationship of c
 
 •	Conducted data preprocessing to transform the original data into an understandable format.
 
-•	Built logistic regression models based on PCA scores.
+•	Built logistic regression models based on PCA scores to predict consumer behavior.
 
 •	Achieved 62.15% of prediction accuracy through cross-validation test.
 
