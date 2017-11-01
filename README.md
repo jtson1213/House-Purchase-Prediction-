@@ -7,11 +7,9 @@ Every year, millions of homes are sold across the United States adding up to sev
 
 With that in mind, the purpose of this study is to examine the relationship of consumer demographics along with the consumer’s home data in order to predict if they are in the market to purchase a home.   
 
-•	Conducted data preprocessing to transform the original data into an understandable format.
+•	Built logistic regression model based on PCA scores to predict consumer behavior.
 
-•	Built logistic regression models based on PCA scores to predict consumer behavior.
-
-•	Achieved 62.15% of prediction accuracy through cross-validation test.
+•	Analyzed and interpreted significant features affecting purchase decision through Factor Analysis.
 
 
 
